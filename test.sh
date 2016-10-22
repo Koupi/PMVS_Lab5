@@ -27,6 +27,10 @@ check 55 / 11 "  5"
 check 33 / 11 "  3"
 check 21 / 7 "  3"
 
+check 20 m 3 " 60"
+check 31 m 3 " 93"
+check 44 m 1 " 44"
+
 rmmod calculator
 rm /dev/operand
 rm /dev/first
