@@ -35,4 +35,3 @@ rmmod calculator
 rm /dev/operand
 rm /dev/first
 rm /dev/second
-
